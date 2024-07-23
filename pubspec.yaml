@@ -77,14 +77,14 @@ flutter:
   fonts:
      - family: Brand-Bold
        fonts:
-         - asset: fonts/GemuniLibre-Bold.ttf
+        - asset: fonts/Poppins-Bold.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
      - family: Semi-Bold
        fonts:
-         - asset: fonts/GemuniLibre-SemiBold.ttf
+        - asset: fonts/Poppins-SemiBold.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
-           weight: 700
+  #      weight: 700
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
